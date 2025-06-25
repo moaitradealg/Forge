@@ -1,0 +1,40 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.xcworkspace
+*.xcodeproj
+
+# Build
+/Build/
+/Binaries/
+/DerivedDataCache/
+/Intermediate/
+/Saved/
+*.tmp
+*.temp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plugins
+/Plugins/*/Binaries/
+/Plugins/*/Intermediate/
+
+# Content that shouldn't be tracked
+/Content/StarterContent/
+/Content/ThirdPersonBP/
+
+# Logs
+*.log
+
+# Cache
+/.vs/
